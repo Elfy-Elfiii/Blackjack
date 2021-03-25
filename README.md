@@ -14,6 +14,7 @@
 
 
         * prendre une carte
+            *pas oublier un norre de carte limite et mélanger 
 
 
         * rester
@@ -23,6 +24,9 @@
 
 
         * séparer
+
+
+        * Blackjack
 
 
         * parier
