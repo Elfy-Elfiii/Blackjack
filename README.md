@@ -13,8 +13,7 @@
     - définir toutes les possibilités pour le joueur :
 
 
-        * prendre une carte
-            *pas oublier un norre de carte limite et mélanger 
+        * prendre une carte ⇒ pas oublier un nombre de carte limite et mélanger
 
 
         * rester
