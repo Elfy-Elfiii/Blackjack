@@ -7,7 +7,7 @@
     - définir les jetons ✓
 
 
-    - définr le croupier
+    - définir le croupier
 
 
     - définir toutes les possibilités pour le joueur :
@@ -42,7 +42,7 @@
 
 
 **2ème partie : interface graphique (html,php,css,javascript):**
+    - Interfaces jolies
+    - Codage d’IA et de distribution de cartes
 
-
-    - on verra plus tard
     
