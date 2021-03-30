@@ -4,7 +4,7 @@
     - définir un paquet de carte
 
 
-    - définir les jetons
+    - définir les jetons ✓
 
 
     - définr le croupier
