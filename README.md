@@ -42,7 +42,11 @@
 
 
 **2ème partie : interface graphique (html,php,css,javascript):**
+
+
     - Interfaces jolies
+
+
     - Codage d’IA et de distribution de cartes
 
     
