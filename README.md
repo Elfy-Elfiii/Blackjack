@@ -36,7 +36,7 @@
         * doubler la mise
 
 
-    - définir gagner et perdre et égalité (ou push)
+    - définir gagner, perdre et égalité (ou push)
 
 
 **2ème partie : interface graphique (html,php,css,javascript):**
