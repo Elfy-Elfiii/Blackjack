@@ -32,7 +32,7 @@
         * parier
 
 
-            * si parie tout ==> pas de posibilité de séparer ni de doubler la mise
+            * si parie tout ==> pas de possibilité de séparer ni de doubler la mise
 
 
         * doubler la mise
