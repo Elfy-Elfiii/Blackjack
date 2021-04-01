@@ -1,7 +1,7 @@
 # Blackjack
 **1ère partie : interface texte (python):**
 
-    - définir un paquet de carte
+    - définir un paquet de carte ~ ✓
 
 
     - définir les jetons ✓
@@ -35,7 +35,7 @@
         * doubler la mise
 
 
-    - définir gagner, perdre et égalité (ou push)
+    - définir gagner, perdre et égalité (ou push) ✓
 
 
 **2ème partie : interface graphique (html,php,css,javascript):**
