@@ -37,6 +37,7 @@
 
     - définir gagner, perdre et égalité (ou push) ✓
 
+lien repl.it pour valeurs des cartes :  https://replit.com/join/dufoehyj-ethantoutcourt
 
 **2ème partie : interface graphique (html,php,css,javascript):**
 
