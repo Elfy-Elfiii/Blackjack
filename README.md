@@ -38,6 +38,7 @@
     - définir gagner, perdre et égalité (ou push) ✓
 
 lien repl.it pour valeurs des cartes :  https://replit.com/join/dufoehyj-ethantoutcourt
+nouveau repl.it sur la fonction motrice (jeu de cartes implémenté) :   https://replit.com/join/clisflqu-ethantoutcourt
 
 **2ème partie : interface graphique (html,php,css,javascript):**
 
