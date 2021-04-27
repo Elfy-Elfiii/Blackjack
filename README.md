@@ -1,26 +1,12 @@
 # Blackjack
 **1ère partie : interface texte (python):**
-
     - définir un paquet de carte ~ ✓
-
-
     - définir les jetons ✓
-
-
     - définir le croupier
-
-
     - définir toutes les possibilités pour le joueur :
-
-
         * prendre une carte ⇒ pas oublier un nombre de carte limite et mélanger
-
-
         * rester
-
-
         * assurer ⇒ Le joueur paye la moitié de sa mise initiale. Si le croupier fait Blackjack, le joueur perd sa mise mais se voit payer l'assurance en double (donc bénéfice 0, perte 0). 
-
 
         * séparer
 
@@ -45,10 +31,7 @@ Lien vers le google doc : https://docs.google.com/document/d/1Enl_VX1fR1ERRAFhYg
 
 **2ème partie : interface graphique (html,php,css,javascript):**
 
-
     - Interfaces jolies
-
-
     - Codage d’IA et de distribution de cartes
 
     
