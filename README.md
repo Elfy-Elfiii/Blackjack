@@ -2,8 +2,6 @@
 **1ère partie : interface texte (python):**
 
     - définir un paquet de carte ~ ✓
-
-
     - définir les jetons ✓
 
 
