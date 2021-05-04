@@ -9,7 +9,7 @@
         * rester
         * assurer ⇒ Le joueur paye la moitié de sa mise initiale. Si le croupier fait Blackjack, le joueur perd sa mise mais se voit payer l'assurance en double (donc bénéfice 0, perte 0).  ✓
         * séparer
-        * Blackjack ⇒  quand tu fait un blackjack tu gagne ce que tu as parié plus la moitié de ce que tu as parier
+        * Blackjack ⇒  quand tu fait un blackjack tu gagne ce que tu as parié plus la moitié de ce que tu as parier ~✓ (pour l'instant seul le fait de repérer 
         * parier ⇒ si parie tout: pas de possibilité de séparer ni de doubler la mise  ~✓
         * doubler la mise
     - définir gagner, perdre et égalité (ou push) ✓
