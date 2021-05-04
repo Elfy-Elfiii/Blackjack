@@ -1,7 +1,7 @@
 # Blackjack
 **1ère partie : interface texte (python):**
 
-    - définir un paquet de carte ~ ✓
+    - définir un paquet de carte ✓
     - définir les jetons ✓
     - définir le croupier
     - définir toutes les possibilités pour le joueur :
