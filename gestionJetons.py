@@ -75,4 +75,8 @@ def assurer(joueur):
     
 def est_assure(joueur):
     return assurances[joueur]
-        
+
+def donnees():
+  # retourne les variables du début du fichier sous forme de tableau
+  return (nb_joueurs, somme_initiale, jetons)
+
