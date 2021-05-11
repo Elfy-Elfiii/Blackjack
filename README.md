@@ -5,8 +5,8 @@
     - définir les jetons ✓
     - définir le croupier
     - définir toutes les possibilités pour le joueur :
-        * prendre une carte ⇒ pas oublier un nombre de carte limite et mélanger
-        * rester
+        * prendre une carte ⇒ pas oublier un nombre de carte limite et mélanger ~✓
+        * rester ~✓
         * assurer ⇒ Le joueur paye la moitié de sa mise initiale. Si le croupier fait Blackjack, le joueur perd sa mise mais se voit payer l'assurance en double (donc bénéfice 0, perte 0).  ✓
         * séparer
         * Blackjack ⇒  quand tu fait un blackjack tu gagne ce que tu as parié plus la moitié de ce que tu as parier ✓ (pour l'instant seul le fait de repérer si il y'a un Blackjack est fait, et aussi le fait que le Blackjack est plus fort que tout)
