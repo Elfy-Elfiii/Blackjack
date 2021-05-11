@@ -7,7 +7,9 @@ print (afficher_jetons(0))
 #print (mise)
 
 ### Mise de 50 pour le joueur n°0
-mise_jeton(0,50)
+mise_jeton(0,1000)
+print (mise)
+doubler(0)
 print (mise)
 print (afficher_jetons(0))
 #print (peut_miser_jeton(0,5000))
