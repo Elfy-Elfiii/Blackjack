@@ -7,7 +7,7 @@ print (afficher_jetons(0))
 #print (mise)
 
 ### Mise de 50 pour le joueur n°0
-mise_jeton(0,1000)
+mise_jeton(0,50)
 print (mise)
 doubler(0)
 print (mise)
@@ -17,7 +17,7 @@ print (afficher_jetons(0))
 #print (porte_monaie)
 
 ###Resultat croupier = 20, joueur = 20, pour le joueur n°0
-print (résultat(20,20,2,2,0))
+print (résultat(20,21,2,2,0))
 
 ### Mise de 50 pour le joueur 1
 mise_jeton(1,50)
@@ -72,3 +72,4 @@ mise_jeton(2,50)
 ###Resultat croupier = 15, joueur = 20, pour le joueur n°2
 print (résultat(20,20,3,2,2))
 print (tableau_de_resultat)
+print (afficher_jetons(0))
