@@ -11,7 +11,7 @@
         * séparer
         * Blackjack ⇒  quand tu fait un blackjack tu gagne ce que tu as parié plus la moitié de ce que tu as parier ~✓ (pour l'instant seul le fait de repérer si il y'a un Blackjack est fait, et aussi le fait que le Blackjack est plus fort que tout)
         * parier ⇒ si parie tout: pas de possibilité de séparer ni de doubler la mise  ~✓
-        * doubler la mise
+        * doubler la mise ✓
     - définir gagner, perdre et égalité (ou push) ✓
 
 lien repl.it sur la fonction motrice (jeu de cartes implémenté) :   https://replit.com/join/clisflqu-ethantoutcourt
