@@ -80,3 +80,11 @@ def donnees():
   # retourne les variables du début du fichier sous forme de tableau
   return (nb_joueurs, somme_initiale, jetons)
 
+def doubler(joueur):
+    if mise[joueur] * 2 <= porte_monaie[joueur]:
+        porte_monaie[joueur] -= mise[joueur]
+        mise[joueur] = mise[joueur] * 2
+    else:
+        print("NO")
+
+
