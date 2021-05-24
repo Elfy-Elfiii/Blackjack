@@ -1,5 +1,5 @@
 # Blackjack
-**1ère partie : interface texte (python):**
+**Interface texte (python):**
 
     - définir un paquet de carte ✓
     - définir les jetons ✓
@@ -17,10 +17,3 @@
 lien repl.it sur la fonction motrice (jeu de cartes implémenté) :   https://replit.com/join/clisflqu-ethantoutcourt
 
 Lien vers le google doc : https://docs.google.com/document/d/1Enl_VX1fR1ERRAFhYgjldz-x2Y6RuwATtsz5YmIII50/edit
-
-**2ème partie : interface graphique (html,php,css,javascript):**
-
-    - Interfaces jolies
-    - Codage d’IA et de distribution de cartes
-
-    
