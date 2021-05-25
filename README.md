@@ -3,7 +3,7 @@
 
     - définir un paquet de carte ✓
     - définir les jetons ✓
-    - définir le croupier
+    - définir le croupier ✓
     - définir toutes les possibilités pour le joueur :
         * prendre une carte ⇒ pas oublier un nombre de carte limite et mélanger ~✓
         * rester ~✓
